@@ -1,5 +1,7 @@
 # 🏡 Defi-Nest: Tokenized Real Estate Risk Simulation
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://defi-nest-dashboard.streamlit.app/)
+
 **NYU Stern Fintech Capstone Project**  
 Built by **Navnita Pandey**
 
@@ -42,11 +44,13 @@ Install dependencies:
 pip install streamlit pandas matplotlib numpy
 ````
 
-### ▶️ Run the App
+### ▶️ Run the App Locally
 
 ```bash
 streamlit run defi_nest_app.py
 ```
+
+Or use the hosted version here 👉 [defi-nest-dashboard.streamlit.app](https://defi-nest-dashboard.streamlit.app/)
 
 ---
 
@@ -103,3 +107,8 @@ Senior Manager – Credit & Digital Banking | NYU Stern Fintech
 
 This project is for educational use only. Contact the author for research or commercial collaboration.
 
+```
+
+
+Let me know if you’d like me to add a **preview image** or **GIF demo** as well! That adds even more polish.
+```
